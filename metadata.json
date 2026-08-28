@@ -1,0 +1,6 @@
+{
+  "name": "Evergreen",
+  "description": "A 2D cozy life-sim RPG and deep NPC simulation set in a lush forest village, powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
